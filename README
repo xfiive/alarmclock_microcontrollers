@@ -1,0 +1,5 @@
+That project reporensent my vision on how alarmclock could be build using arduion microcontroller as a foundation and a non-determined state machine for a whole project logics.
+
+Build on pure C(With a little spice in the form of Platform.io extension and Cpp).
+
+Works on arduino uno mainly.
